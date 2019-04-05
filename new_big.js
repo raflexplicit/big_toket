@@ -8,9 +8,9 @@ const { URLSearchParams } = require("url");
 const moment = require("moment");
 const rp = require("request-promise");
 
-console.log("#####################");
+console.log("---------------------------");
 console.log("Raflexplicit | Kernel Panic");
-console.log("#####################");
+console.log("---------------------------");
 
 console.log("");
 console.log("");
